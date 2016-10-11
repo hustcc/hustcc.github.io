@@ -1,4 +1,4 @@
-Code for my profile, click [git.hustcc](http://git.hustcc/).
+Code for my GitHub profile, click [git.hust.cc](http://git.hust.cc/).
 
 List my Github projects.
 
